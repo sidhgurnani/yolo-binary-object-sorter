@@ -1,0 +1,12 @@
+{
+  "passes": [
+    {
+      "pass": 1,
+      "class": "Penny",
+      "target_count": 12,
+      "other_count": 50,
+      "total": 62
+    }
+  ],
+  "first_pass_total": 62
+}

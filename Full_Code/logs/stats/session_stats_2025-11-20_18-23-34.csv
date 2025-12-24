@@ -1,0 +1,11 @@
+Metric,Value
+Session Duration,0:04:18
+Total Objects Sorted,56
+Unique Object Types,3
+Passes Completed,2
+,
+📦 Object Breakdown:,
+  • Penny,16 objects
+  • Dime,27 objects
+  • Quarter,13 objects
+⚡ Average Throughput,13.02 objects/min
