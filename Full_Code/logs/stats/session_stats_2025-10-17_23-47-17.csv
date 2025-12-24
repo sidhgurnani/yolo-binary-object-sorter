@@ -1,0 +1,7 @@
+Metric,Value
+Session Duration,0:00:18
+Total Objects Sorted,54
+Unique Object Types,2
+Passes Completed,1
+  └─ person,54
+Average Throughput,180.00 objects/min
